@@ -1,2 +1,3 @@
+dia3cssvariables.surge.sh
 dia4arraycardio.surge.sh
 dia5flexpanel.surge.sh
